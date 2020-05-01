@@ -1,0 +1,43 @@
+* {
+  font-family: 'Source Code Pro';
+}
+
+.main {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.header {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.title {
+  font-size: 1rem;
+}
+
+.titleColor {
+  color: #c0392b;
+}
+
+.avatar {
+  max-width: 6rem;
+  border-radius: 50%;
+}
+
+.social {
+  padding: 0;
+}
+
+.social li {
+  list-style-type: none;
+  display: inline-block;
+}
+
+.link {
+  color: #000;
+  text-decoration: none;
+  outline: 0;
+}
