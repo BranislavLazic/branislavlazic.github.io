@@ -79,8 +79,8 @@ But that's not even all. Let's take for instance the `Tree` data structure. A `T
 For example, if we want to sum all integers within a Tree, it doesn't matter which _leaves_ will be summed first, since the operation is associative. Rewritten in the context of parallel collections:
 
 ```scala
-def sumPar[A: Monoid](parColl: ParCollection[A]) =
-  parColl.foldLeft(summon[Monoid[A]].empty)(summon[Monoid[A]].combine)
+def sumPar[A: Monoid as m](parColl: ParCollection[A]) =
+  parColl.foldLeft(m.empty)(m.combine)
 ```
 
 Our function remains pretty much the same, but the monoid gets a new, higher meaning - it's a warranty or proof for parallelization.
