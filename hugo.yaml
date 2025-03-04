@@ -1,4 +1,28 @@
 baseURL: https://branislavlazic.github.com
 languageCode: en-us
-title: It Works on My Machine
+title: 'It Works on My Machine'
 theme: PaperMod
+pagination:
+  pagerSize: 5
+params:
+  socialIcons:
+    - name: stackoverflow
+      url: 'https://stackoverflow.com/users/1324709/branislav-lazic'
+    - name: github
+      url: 'https://github.com/branislavlazic'
+    - name: linkedin
+      url: 'https://www.linkedin.com/in/branislav-lazic-a7b51360'
+
+  ShowCodeCopyButtons: true
+  ShowShareButtons: true
+  ShareButtons: ['linkedin', 'twitter', 'reddit', 'telegram']
+  homeInfoParams:
+    Title: 🤖 It Works on My Machine
+    Content: 'Just use Docker, mate'
+
+menu:
+  main:
+    - identifier: posts
+      name: Posts
+      url: /posts/
+      weight: 10
