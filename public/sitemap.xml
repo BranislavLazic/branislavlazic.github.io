@@ -2,17 +2,17 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://localhost:1313/</loc>
+    <loc>https://branislavlazic.github.com/</loc>
     <lastmod>2025-03-04T16:11:10+01:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/posts/</loc>
+    <loc>https://branislavlazic.github.com/posts/</loc>
     <lastmod>2025-03-04T16:11:10+01:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/posts/zio-and-hanko/</loc>
+    <loc>https://branislavlazic.github.com/posts/zio-and-hanko/</loc>
     <lastmod>2025-03-04T16:11:10+01:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/categories/</loc>
+    <loc>https://branislavlazic.github.com/categories/</loc>
   </url><url>
-    <loc>http://localhost:1313/tags/</loc>
+    <loc>https://branislavlazic.github.com/tags/</loc>
   </url>
 </urlset>
