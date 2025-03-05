@@ -3,7 +3,7 @@ date: '2025-03-04T16:11:10+01:00'
 title: 'What is a Monoid, Exactly?'
 ---
 
-Let's talk about some math concepts in this context. Remember those lessons about _identity_, _commutativity_, _associativity_, and _distributivity_? These laws are quite important in the context of monoids. A monoid comes from mathematics. In abstract algebra, a monoid is a set equipped with an associative binary operation and an identity element.
+Let's talk about some math concepts in this context. Remember those lessons about _identity_, _commutativity_, _associativity_, and _distributivity_? Yeah, me neither. But these laws are quite important in the context of monoids. A monoid comes from mathematics. In abstract algebra, a monoid is a set equipped with an associative binary operation and an identity element.
 
 ## Semigroup
 
