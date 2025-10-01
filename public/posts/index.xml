@@ -1,22 +1,19 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Posts on It Works on My Machine</title>
-    <link>https://branislavlazic.github.com/posts/</link>
+    <link>http://localhost:1313/posts/</link>
     <description>Recent content in Posts on It Works on My Machine</description>
-    <generator>Hugo -- 0.145.0</generator>
+    <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Tue, 04 Mar 2025 16:11:10 +0100</lastBuildDate>
-    <atom:link href="https://branislavlazic.github.com/posts/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/posts/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>What is a Monoid, Exactly?</title>
-      <link>https://branislavlazic.github.com/posts/what-is-monoid-exactly/</link>
+      <link>http://localhost:1313/posts/what-is-monoid-exactly/</link>
       <pubDate>Tue, 04 Mar 2025 16:11:10 +0100</pubDate>
-      <guid>https://branislavlazic.github.com/posts/what-is-monoid-exactly/</guid>
-      <description>&lt;p&gt;Let&amp;rsquo;s talk about some math concepts in this context. Remember those lessons about &lt;em&gt;identity&lt;/em&gt;, &lt;em&gt;commutativity&lt;/em&gt;, &lt;em&gt;associativity&lt;/em&gt;, and &lt;em&gt;distributivity&lt;/em&gt;? These laws are quite important in the context of monoids. A monoid comes from mathematics. In abstract algebra, a monoid is a set equipped with an associative binary operation and an identity element.&lt;/p&gt;
-&lt;h2 id=&#34;semigroup&#34;&gt;Semigroup&lt;/h2&gt;
-&lt;p&gt;In mathematics, a semigroup is a structure with a binary operation that satisfies the law of associativity.&lt;/p&gt;
-&lt;p&gt;An example of an associative operation would be addition, multiplication, or even string concatenation:&lt;/p&gt;</description>
+      <guid>http://localhost:1313/posts/what-is-monoid-exactly/</guid>
+      <description>&lt;p&gt;Let&amp;rsquo;s talk about some math concepts in this context. Remember those lessons about &lt;em&gt;identity&lt;/em&gt;, &lt;em&gt;commutativity&lt;/em&gt;, &lt;em&gt;associativity&lt;/em&gt;, and &lt;em&gt;distributivity&lt;/em&gt;? Yeah, me neither. But these laws are quite important in the context of monoids. A monoid comes from mathematics. In abstract algebra, a monoid is a set equipped with an associative binary operation and an identity element.&lt;/p&gt;&#xA;&lt;h2 id=&#34;semigroup&#34;&gt;Semigroup&lt;/h2&gt;&#xA;&lt;p&gt;In mathematics, a semigroup is a structure with a binary operation that satisfies the law of associativity.&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>
